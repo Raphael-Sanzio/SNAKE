@@ -1,4 +1,4 @@
-package com.example.matrix.snake_test;
+package com.example.matrix.javatest;
 
 import org.junit.Test;
 
